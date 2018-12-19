@@ -1,6 +1,6 @@
 ---
 title: 'Teaching'
-permalink: /teaching/qm1/
+date: \date{$date$}
 ---
 
 ## Quantitative Methods I. 
