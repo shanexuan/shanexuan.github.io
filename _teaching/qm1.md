@@ -2,7 +2,7 @@
 title: Quantitative Methods I
 ---
 
-Teaching evaluation for Fall 2017 [here](../files/qm1-eval-fa17.pdf "PDF").
+Teaching evaluation for Fall 2017 [here](https://xxuan17.github.io/files/qm1-eval-fa18.pdf).
 Teaching evaluation for Fall 2018.
 
 Lab Schedule: 
