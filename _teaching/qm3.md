@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: Quantitative Methods III
 ---
 
