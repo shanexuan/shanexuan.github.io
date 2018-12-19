@@ -1,6 +1,6 @@
 ---
+layout: archive
 title: Quantitative Methods I
-date: 2018-1-1
 ---
 
 Teaching evaluation for Fall 2017 [here](https://shanexuan.github.io/files/qm1-eval-fa18.pdf).
