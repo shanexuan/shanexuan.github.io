@@ -2,6 +2,7 @@
 layout: archive
 title: Quantitative Methods I
 date: "2018-01-01"
+collection: teaching
 ---
 
 Teaching evaluation for Fall 2017 [here](https://shanexuan.github.io/files/qm1-eval-fa18.pdf).
