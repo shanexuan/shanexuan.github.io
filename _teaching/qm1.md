@@ -1,6 +1,6 @@
 ---
 title: Quantitative Methods I
-date: "`r format(Sys.time(), %Y')`"
+date: 2018-1-1
 ---
 
 Teaching evaluation for Fall 2017 [here](https://shanexuan.github.io/files/qm1-eval-fa18.pdf).
