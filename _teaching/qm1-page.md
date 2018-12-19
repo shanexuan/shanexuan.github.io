@@ -1,6 +1,6 @@
 ---
 title: 'Teaching'
-permalink: /posts/qm1/
+permalink: /teaching/qm1/
 ---
 
 Teaching website for Quantitative Methods I. 
