@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Shane Xuan"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student"
-  location         : "UC San Diego"
+  location         : "UCSD"
   employer         :
-  googlescholar    : ""
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
