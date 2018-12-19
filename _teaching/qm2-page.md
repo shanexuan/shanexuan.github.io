@@ -1,6 +1,6 @@
 ---
 title: 'Quantitative Methods II'
-date: '1,1,2018'
+date: 2018-01-01
 ---
 
 Teaching evaluation for Winter 2018 [here](../files/qm1-eval-fa17.pdf "PDF").
