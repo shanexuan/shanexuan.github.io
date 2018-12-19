@@ -1,6 +1,6 @@
 ---
 title: 'Quantitative Methods I'
-date: ""
+date: 
 ---
 
 Teaching evaluation for Fall 2017 [here](../files/qm1-eval-fa17.pdf "PDF").
