@@ -20,8 +20,14 @@ Work in progress.
 
 For more info
 ------
-Office Address\\San Diego Supercomputer Center\\West 362
+Office Address  
+San Diego Supercomputer Center  
+West 362
 
-Email Address\\xxuan at ucsd.edu
+Email Address  
+xxuan at ucsd.edu
 
-Mailing Address\\Shane Xinyang Xuan\\9500 Gilman Drive 0521\\La Jolla, CA 92093-0521
+Mailing Address  
+Shane Xinyang Xuan  
+9500 Gilman Drive 0521  
+La Jolla, CA 92093-0521
