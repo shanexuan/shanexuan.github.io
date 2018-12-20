@@ -12,17 +12,16 @@ Welcome! I am a Jerri-Ann and Gary E. Jacobs Fellow of social science at the Uni
 
 I received an undergraduate dual degree magna cum laude in Mathematics and Political Science from Wabash College (IN) in May 2016. I am holding or have previously held research and teaching positions at UC San Diego (CA), Northwestern University (IL), and Wabash College (IN).
 
-For more info
+Contact Information
 ======
 __Office Address__  
 San Diego Supercomputer Center  
-West 362
-
-__Email Address__  
-[shane.xuan.94 at gmail dot com](mailto:shane.xuan.94@gmail.com)  
-[xxuan at ucsd dot edu](mailto:xxuan@ucsd.edu)  
+West 362  
 
 __Mailing Address__  
 Shane Xinyang Xuan  
 9500 Gilman Drive 0521  
 La Jolla, CA 92093-0521
+
+__Office Address__  
+[xxuan@ucsd.edu](mailto:shane.xuan.94@gmail.com)
