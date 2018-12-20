@@ -9,7 +9,7 @@ venue: Graduate Methods
 
  The course teaches students how to evaluate quantitative information in business, policy, and economic contexts, and to make sound decisions in complex situations. The course covers causal inference, panel data analysis, and times series analysis. My most recent teaching evaluation is [here](https://shanexuan.github.io/files/qm3-eval-sp18.pdf).
 
-Teaching evaluation for Winter 2018 [here](https://shanexuan.github.io/files/qm3-eval-sp18.pdf).
+Teaching evaluation for Spring 2018 [here](https://shanexuan.github.io/files/qm3-eval-sp18.pdf).
 
 Lab Schedule:  
 Lab 1: Endogeneity [[slides](https://shanexuan.github.io/files/qm3-slides/ovb.pdf)]  
