@@ -3,11 +3,11 @@ layout: archive
 title: Quantitative Methods I
 date: "2018-01-01"
 collection: teaching
-type: Graduate Methods
-venue: UCSD
+type: Recitation Section Leader
+venue: Graduate Methods
 ---
 
-I have been the recitation section leader for GPCO 453: Quantitative Methods I [x2] in the Graduate School of Global Policy and Strategy at the University of California, San Diego (CA). The course provides students with proficient quantitative methods that are used for optimization and decision making.
+The course provides students with quantitative methods that are used for optimization and decision making. My most recent teaching evaluation is [here](https://shanexuan.github.io/files/qm1-eval-fa18.pdf). 
 
 Teaching evaluation for Fall 2017 [here](https://shanexuan.github.io/files/qm1-eval-fa17.pdf).  
 Teaching evaluation for Fall 2018 [here](https://shanexuan.github.io/files/qm1-eval-fa18.pdf).
