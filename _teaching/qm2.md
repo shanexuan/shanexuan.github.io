@@ -7,7 +7,7 @@ type: Recitation Section Leader
 venue: Graduate Methods
 ---
 
-The course is the \emph{first} code intensive class that students encounter in the MIA/MPP program. It introduces the theory and application of linear models for policy analysis. Students learn the underlying mathematical formalism, basic data management and coding skills, and appropriate interpretation and presentation of the econometric results. My most recent teaching evaluation is [here](https://shanexuan.github.io/files/qm2-eval-wi18.pdf). 
+The course is the _first_ code intensive class that students encounter in the MIA/MPP program. It introduces the theory and application of linear models for policy analysis. Students learn the underlying mathematical formalism, basic data management and coding skills, and appropriate interpretation and presentation of the econometric results. My most recent teaching evaluation is [here](https://shanexuan.github.io/files/qm2-eval-wi18.pdf). 
 
 Teaching evaluation for Winter 2018 [here](https://shanexuan.github.io/files/qm2-eval-wi18.pdf).
 Teaching evaluation for Winter 2019 (coming soon).
