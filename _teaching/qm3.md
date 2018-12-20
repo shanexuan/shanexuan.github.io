@@ -18,7 +18,7 @@ Lab 3: Binary Choice Model, II
 Lab 4: Instrumental Variable [[slides](https://shanexuan.github.io/files/qm3-slides/iv-exercise.pdf)]  
 Lab 5: Time Series, I  
 Lab 6: Time Series, II  
-Lab 7: Panel Data Analysis, I 
-Lab 8: Panel Data Analysis, II  
+Lab 7: Panel Data Analysis, I  
+Lab 8: Panel Data Analysis, II   
 Lab 9: Open Agenda  
 Lab 10: Final Exam Review  
