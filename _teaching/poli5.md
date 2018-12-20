@@ -4,7 +4,7 @@ title: Poli 5: Social Data Analytics [UG]
 date: "2017-01-01"
 collection: teaching
 type: Recitation Section Leader
-venue: Undergraduate Methods
+venue: UG Methods
 ---
 
 The course applies probability and statistical analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. We cover the basics of probability, data visualization, data collection and management, hypothesis testing, and computation: with Excel, Stata, and R).  My most recent teaching evaluation is [here](https://shanexuan.github.io/files/poli5-wi17.pdf). 

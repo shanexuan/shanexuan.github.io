@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: Political Analysis [UG]
+title: Poli 30: Political Analysis [UG]
 date: "2016-01-01"
 collection: teaching
 type: Recitation Section Leader
-venue: Graduate Methods
+venue: UG Methods
 ---
 
 The course introduces undergraduate students to the logic of inference in social science, quantitative analysis in political science and public policy including research design, data collection, data visualizaion, and hypothesis testing. My most recent teaching evaluation is [here](https://shanexuan.github.io/files/poli30-fa16.pdf). 
