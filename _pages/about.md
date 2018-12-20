@@ -14,14 +14,14 @@ I received an undergraduate dual degree magna cum laude in Mathematics and Polit
 
 For more info
 ======
-Office Address  
+__Office Address__  
 San Diego Supercomputer Center  
 West 362
 
-Email Address  
+__Email Address__  
 xxuan at ucsd.edu
 
-Mailing Address  
+__Mailing Address__  
 Shane Xinyang Xuan  
 9500 Gilman Drive 0521  
 La Jolla, CA 92093-0521
