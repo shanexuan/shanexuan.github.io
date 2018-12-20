@@ -12,14 +12,6 @@ Welcome! I am a Jerri-Ann and Gary E. Jacobs Fellow of social science at the Uni
 
 I received an undergraduate dual degree magna cum laude in Mathematics and Political Science from Wabash College (IN) in May 2016. I am holding or have previously held research and teaching positions at UC San Diego (CA), Northwestern University (IL), and Wabash College (IN).
 
-Election, Democracy, and Southeast Asia
-======
-Work in progress.
-
-Text as Data
-======
-Work in progress. 
-
 For more info
 ======
 Office Address  
