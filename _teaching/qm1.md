@@ -12,7 +12,7 @@ The course provides students with quantitative methods that are used for optimiz
 Teaching evaluation for Fall 2017 [here](https://shanexuan.github.io/files/qm1-eval-fa17.pdf).  
 Teaching evaluation for Fall 2018 [here](https://shanexuan.github.io/files/qm1-eval-fa18.pdf).
 
-Lab Schedule: 
+Lab Schedule:  
 Section 1: A recap of basic probability  
 Section 2: Time preferences [[slides](https://shanexuan.github.io/files/qm1-slides/time.pdf)]  
 Section 3: Exploratory data analysis [[slides](https://shanexuan.github.io/files/qm1-slides/explore.pdf)]  

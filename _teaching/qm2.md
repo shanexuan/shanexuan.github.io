@@ -12,7 +12,7 @@ The course is the _first_ code intensive class that students encounter in the MI
 Teaching evaluation for Winter 2018 [here](https://shanexuan.github.io/files/qm2-eval-wi18.pdf).
 Teaching evaluation for Winter 2019 (coming soon).
 
-Lab Schedule: 
+Lab Schedule:  
 Lab 1: Introduction to Stata  
 Lab 2: How to Use Online Resources for Stata  
 Lab 3: Simple Regression and Multiple Regression  
