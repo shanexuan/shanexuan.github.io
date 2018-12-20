@@ -4,7 +4,7 @@ title: Lectures [UG]
 date: "2018-01-01"
 collection: teaching
 type: Teaching Assistant
-venue: UG CP/IR
+venue: CP/IR
 ---
 
 East Asian Political Thoughts (w/ Victor Magagna), Summer 2018  
