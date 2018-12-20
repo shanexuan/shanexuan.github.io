@@ -18,10 +18,11 @@ __Office Address__
 San Diego Supercomputer Center  
 West 362  
 
+__Email Address__  
+[xxuan@ucsd.edu](mailto:shane.xuan.94@gmail.com)  
+[shane.xuan.94@gmail.com](mailto:shane.xuan.94@gmail.com)  
+
 __Mailing Address__  
 Shane Xinyang Xuan  
 9500 Gilman Drive 0521  
-La Jolla, CA 92093-0521
-
-__Office Address__  
-[xxuan@ucsd.edu](mailto:shane.xuan.94@gmail.com)
+La Jolla, CA 92093-0521  
