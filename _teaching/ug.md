@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Undergraduate Lectures
+title: Lectures [UG]
 date: "2018-01-01"
 collection: teaching
 type: Teaching Assistant

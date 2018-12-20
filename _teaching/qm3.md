@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Quantitative Methods III
+title: Quantitative Methods III [G]
 date: 01/01/2018
 collection: teaching
 type: Recitation Section Leader

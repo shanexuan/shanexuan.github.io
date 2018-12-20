@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Quantitative Methods II
+title: Quantitative Methods II [G, x2]
 date: "01/01/2018"
 collection: teaching
 type: Recitation Section Leader
