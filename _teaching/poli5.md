@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Poli 5: Social Data Analytics [UG]
+title: Social Data Analytics [UG]
 date: "2017-01-01"
 collection: teaching
 type: Recitation Section Leader

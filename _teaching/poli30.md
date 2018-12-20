@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Poli 30: Political Analysis [UG]
+title: Political Analysis [UG]
 date: "2016-01-01"
 collection: teaching
 type: Recitation Section Leader
