@@ -3,11 +3,12 @@ layout: archive
 title: Political Analysis [UG]
 date: "2016-01-01"
 collection: teaching
+permalink: /teaching/poli30/
 type: Recitation Section Leader
 venue: UG Methods
 ---
 
-The course introduces undergraduate students to the logic of inference in social science, quantitative analysis in political science and public policy including research design, data collection, data visualizaion, and hypothesis testing. My most recent teaching evaluation is [here](https://shanexuan.github.io/files/poli30-fa16.pdf). 
+(with Scott Desposato) The course introduces undergraduate students to the logic of inference in social science, quantitative analysis in political science and public policy including research design, data collection, data visualizaion, and hypothesis testing. My most recent teaching evaluation is [here](https://shanexuan.github.io/files/poli30-fa16.pdf). 
 
 Teaching evaluation for Fall 2016 [here](https://shanexuan.github.io/files/poli30-fa16.pdf) .  
 
