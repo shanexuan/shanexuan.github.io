@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I use field experiments, survey experiments, and quantitative text analysis to understand democratic backsliding, accountability, and political econonmy, with a regional focus on Southeast Asia. 
+I use field experiments, survey experiments, and quantitative text analysis to understand democratic backsliding and political econonmy, with a regional focus on Southeast Asia. My dissertation concerns (i) how ordinary citizens perceive democratic backsliding in the context of a consolidating democracy, and (ii) the determinants that safeguard democracy in the age of electoral authoritarianism.
 
 # Under Review
 
