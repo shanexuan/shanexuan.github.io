@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+I use field experiments, survey experiments, and quantitative text analysis to understand democratic backsliding, accountability, and political econonmy, with a regional focus on Southeast Asia. 
+
 # Under Review
 
 ## Making Electoral Autocracy Work: Instability, Policy Concessions, and Unintended Consequence of Institutions [pre-print; [appendix](https://shanexuan.com/files/paper/ea-append.pdf)]  
