@@ -19,8 +19,8 @@ San Diego Supercomputer Center
 West 362  
 
 __Email Address__  
-[xxuan@ucsd.edu](mailto:shane.xuan.94@gmail.com)  
-[shane.xuan.94@gmail.com](mailto:shane.xuan.94@gmail.com)  
+[xxuan[at]ucsd.edu](mailto:shane.xuan.94@gmail.com)  
+[shane.xuan.94[at]gmail.com](mailto:shane.xuan.94@gmail.com)  
 
 __Mailing Address__  
 Shane Xinyang Xuan  
