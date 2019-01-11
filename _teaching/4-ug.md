@@ -5,7 +5,7 @@ date: "2018-01-01"
 collection: teaching
 permalink: /teaching/ug/
 type: Teaching Assistant
-venue: CP/IR
+venue: Comparative and International Politics
 ---
 
 East Asian Political Thoughts (Victor Magagna), 2018  
