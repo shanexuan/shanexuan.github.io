@@ -8,7 +8,7 @@ type: Recitation Section Leader
 venue: UG Methods
 ---
 
-(with Molly Roberts) The course applies probability and statistical analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. We cover the basics of probability, data visualization, data collection and management, hypothesis testing, and computation: with Excel, Stata, and R).  My most recent teaching evaluation is [here](https://shanexuan.github.io/files/poli5-wi17.pdf). 
+(with Molly Roberts) The course applies probability and statistical analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. We cover the basics of probability, data visualization, data collection and management, hypothesis testing, and computation with Excel, Stata, and R.  My most recent teaching evaluation is [here](https://shanexuan.github.io/files/poli5-wi17.pdf). 
 
 Teaching evaluation for Winter 2017 [here](https://shanexuan.github.io/files/poli5-wi17.pdf) .  
 
