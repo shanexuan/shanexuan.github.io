@@ -15,7 +15,7 @@ I received an undergraduate dual degree magna cum laude in Mathematics and Polit
 Contact Information
 ======
 __Office Address__  
-Hal\i c\i o\u{g} lu Data Science Institute  
+Hal&#x131c&#x131o&#x11Flu Data Science Institute  
 209E  
 
 __Email Address__  
