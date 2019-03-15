@@ -15,8 +15,8 @@ I received an undergraduate dual degree magna cum laude in Mathematics and Polit
 Contact Information
 ======
 __Office Address__  
-San Diego Supercomputer Center  
-West 362  
+Hal\i c\i o\u{g} lu Data Science Institute  
+209E  
 
 __Email Address__  
 [xxuan[at]ucsd.edu](mailto:shane.xuan.94@gmail.com)  
