@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I use field experiments, survey experiments, and quantitative text analysis to understand democratic erosion and democratic consolidation, with a regional focus on Southeast Asia and South Asia. My dissertation concerns (i) the dynamic relationship between political participation and accountability, as well as (ii) determinants that safeguard democracy in the age of electoral authoritarianism.  
+I use field experiments, survey experiments, and quantitative text analysis to understand democratic erosion and democratic consolidation, with a regional focus on Southeast and East Asia. My dissertation studies (i) the source of democratic attitudes in developing countries, as well as (ii) determinants that safeguard democracy in the age of electoral authoritarianism.  
 
 # Working Papers
 
@@ -16,3 +16,7 @@ How do ordinary citizens perceive various instances related to democratic backsl
 ## Curbing Clientelism in Local Elections: Evidence from the Philippines (w/ Nico Ravanilla and Ron Mendoza) [[pre-analysis](http://egap.org/content/clientelism-policy-based-campaigns-philippines); preprint; online appendix]  
 
 We propose a supply-side argument to understand vote buying in the context of Philippine local elections. Leveraging data from a field experiment during the 2019 Philippine local elections, we find that only about 8\% of the local candidates were willing to tie their hands and run for a clean election without buying votes. We discuss the implications for future work that attempts to curb vote buying in an environment with entrenched clientelism.   
+
+# Work in Progress
+ 
+ ## The Source of Democratic Attitudes: Natural Experimental Evidence from Indonesia  
