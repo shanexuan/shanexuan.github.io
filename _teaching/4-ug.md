@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Lectures [UG]
-date: "2018-01-01"
+date: "2019-01-01"
 collection: teaching
 permalink: /teaching/ug/
 type: Teaching Assistant
