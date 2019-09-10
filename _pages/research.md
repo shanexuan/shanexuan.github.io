@@ -19,4 +19,4 @@ We propose a supply-side argument to understand vote buying in the context of Ph
 
 # Work in Progress
  
- ## The Source of Democratic Attitudes: Natural Experimental Evidence from Indonesia  
+## The Source of Democratic Attitudes: Natural Experimental Evidence from Indonesia  
