@@ -9,9 +9,9 @@ I use field experiments, survey experiments, and quantitative text analysis to u
 
 # Working Papers
 
-## Curbing Clientelism in Local Elections: Evidence from the Philippines (w/ Nico Ravanilla and Ron Mendoza) [[pre-analysis](http://egap.org/content/clientelism-policy-based-campaigns-philippines); preprint (coming soon)]   
+## Curbing Clientelism in Local Elections: Evidence from the Philippines (w/ Nico Ravanilla and Ron Mendoza) [[pre-analysis](http://egap.org/content/clientelism-policy-based-campaigns-philippines); preprint]   
 
-We propose a supply-side argument to understand vote buying in the context of Philippine local elections. Leveraging data from a field experiment during the 2019 Philippine local elections, we find that only about 8\% of the local candidates were willing to tie their hands and run for a clean election without buying votes. We discuss the implications for future work that attempts to curb vote buying in an environment with entrenched clientelism.   
+We measure the effect of an anti-vote buying intervention on vote buying incidents and electoral outcomes in the context of 2019 Philippine local elections. Through a field experiment with 1,541 party elites during the 2019 Philippine local elections, we find that the anti-vote buying intervention increases political competition at the local level. We identify two mechanisms that determine effectiveness of the anti-vote buying campaign, namely the \emph{takeup cost}, and whether the intervention is \emph{common knowledge}. When the intervention is common knowledge, it increases candidates' effort to mobilize voters. However, when the intervention is too costly for the candidates to take up, it can unintentionally \emph{increase} candidates' effort in vote buying.  
 
 ## How Voters Perceive Democratic Backsliding in Developing Democracies [pre-analysis; preprint]
 
