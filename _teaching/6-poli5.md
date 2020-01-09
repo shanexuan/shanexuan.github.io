@@ -8,11 +8,13 @@ type: Instructor
 venue: UG Methods
 ---
 
-(with Molly Roberts) The course applies probability and statistical analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. We cover the basics of probability, data visualization, data collection and management, hypothesis testing, and computation with Excel, Stata, and R.  My most recent teaching evaluation is [here](https://shanexuan.github.io/files/poli5-wi17.pdf). 
+The course applies probability and statistical analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. We cover the basics of probability, data visualization, data collection and management, hypothesis testing, and computation with Excel, Stata, and R.  My most recent teaching evaluation is [here](https://shanexuan.github.io/files/poli5-wi17.pdf). 
 
-Teaching evaluation for Winter 2017 [here](https://shanexuan.github.io/files/poli5-wi17.pdf) .  
+Course Schedule, 2020:  
+Session 1: Introduction  
+Session 2: TBD  
 
-Lab Schedule:  
+Lab Schedule, 2017:  
 Section 1: Intro to Excel [[slides](https://shanexuan.github.io/files/poli5-slides/intro.pdf)]  
 Section 2: Functions in Excel [[slides](https://shanexuan.github.io/files/poli5-slides/function.pdf)]  
 Section 3: Intro to Stata [[slides](https://shanexuan.github.io/files/poli5-slides/function2.pdf)]  
