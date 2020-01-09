@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: Social Data Analytics [UG]
-date: "2017-01-01"
+title: Social Data Analytics [UG, x2]
+date: "2020-04-01"
 collection: teaching
 permalink: /teaching/poli5/
-type: Recitation Section Leader
+type: Instructor 
 venue: UG Methods
 ---
 

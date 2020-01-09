@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My C.V. can be accessed [here](../files/xuan-cv2019.pdf "cv"){:target="_blank"}.
+My C.V. can be accessed [here](../files/xuan-cv2020.pdf "cv"){:target="_blank"}.
