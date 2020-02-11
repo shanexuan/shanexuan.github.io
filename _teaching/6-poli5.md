@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Social Data Analytics [UG, x2]
-date: "2020-04-01"
+date: "2020-03-01"
 collection: teaching
 permalink: /teaching/poli5/
 type: Instructor 
@@ -11,7 +11,10 @@ venue: UG Methods
 The course applies probability and statistical analysis for understanding data in the social world. Students engage in hands-on learning with applied social science problems. We cover the basics of probability, data visualization, data collection and management, hypothesis testing, and computation with Excel, Stata, and R.  My most recent teaching evaluation is [here](https://shanexuan.github.io/files/poli5-wi17.pdf). 
 
 Course Schedule, 2020:  
-Session 1: Introduction  
+Lecture: Tu/Th 5-6pm   
+Lab: F 11am-11:50am  
+Office Hour: Th 6-7pm  
+Session 1: Introduction   
 Session 2: TBD  
 
 Lab Schedule, 2017:  
