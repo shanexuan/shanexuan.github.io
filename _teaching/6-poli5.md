@@ -4,7 +4,7 @@ title: Social Data Analytics [UG, x3]
 date: "2020-07-01"
 collection: teaching
 permalink: /teaching/poli5/
-type: Instructor 
+type: Instructor of Record
 venue: UG Methods
 ---
 
