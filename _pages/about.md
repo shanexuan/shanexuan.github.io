@@ -12,7 +12,7 @@ Welcome! I am a Jerri-Ann and Gary E. Jacobs Endowed Fellow at the University of
 
 I have held research and teaching positions at UC San Diego (CA), Northwestern University (IL), and Wabash College (IN). I received an M.A. in Political Science from UC San Diego (2019), and an A.B. in Political Science and Mathematics from Wabash College (2016). 
 
-I am with the Civic Integrity team at Facebook during Summer 2020.  
+I am with Facebook [Civic Integrity](https://about.fb.com/actions/preparing-for-elections-on-facebook/) in Summer 2020, and Facebook [Core Data Science](https://research.fb.com/teams/core-data-science/) in Summer 2021.  
 
 Contact Information
 ======
