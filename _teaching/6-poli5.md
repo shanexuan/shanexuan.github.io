@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Social Data Analytics [UG, x3]
+title: Social Data Analytics [UG, x4]
 date: "2020-07-01"
 collection: teaching
 permalink: /teaching/poli5/
