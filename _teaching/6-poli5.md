@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Social Data Analytics [UG, x4]
-date: "2020-07-01"
+title: Social Data Analytics [UG, x5]
+date: "2021-01-01"
 collection: teaching
 permalink: /teaching/poli5/
 type: Instructor of Record
